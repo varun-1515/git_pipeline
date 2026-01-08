@@ -1,2 +1,3 @@
 Very clean for many options
 Faster for many choices
+New line inserting
